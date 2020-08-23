@@ -10,5 +10,5 @@ For now, though, I am working on honing my Elixir skills, so that all of my code
 
 ### 👻 The mood atm
 <a href="https://spotify-in-github-readme.mdlkxzmcp.vercel.app/now-playing?open">
-  <img src="https://spotify-in-github-readme.mdlkxzmcp.vercel.app/now-playing" width="256" height="64" alt="Now Playing on Spotify">
+  <img src="https://spotify-in-github-readme.mdlkxzmcp.vercel.app/now-playing" width="350" height="64" alt="Now Playing on Spotify">
 </a>
