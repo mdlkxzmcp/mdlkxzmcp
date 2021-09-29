@@ -1,9 +1,8 @@
-### :lemon: Hey hey! :lemon:
-#### :heart: Thanks for checking out my profie :heart:
+### Hey hey!
+#### :lemon: Thanks for checking out my profie :lemon:
 
 My dream is to spend half a day programming, and the other half making music! 🔮
 
-For now, though, I am working on honing my Elixir skills, so that all of my code turns out _a w e s o m e ！！_ :^)
 
 ### :star: My most _publicly_ used programming languages
 [![](https://github-readme-stats.mdlkxzmcp.vercel.app/api/top-langs/?username=mdlkxzmcp&layout=compact&hide=html&hide_title=true&hide_border=true)](https://github.com/mdlkxzmcp/github-readme-stats)
